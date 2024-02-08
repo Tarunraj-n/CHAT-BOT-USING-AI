@@ -31,4 +31,4 @@ Prerequisites
 Python 3.x
 NLP libraries (e.g., NLTK, spaCy)
 Additional libraries as specified in requirements.txt
-## ** THIS IS A SIMPLE MODEL THAT CAN RESPOND HI, HELLO, AND GREET **
+## ** THIS IS A SIMPLE MODEL WHICH IS STILL UNER DEVELOPMENT AND THIS CODE IS DONE USING GOOGLE COLAB THAT CAN RESPOND HI, HELLO, AND GREET **
