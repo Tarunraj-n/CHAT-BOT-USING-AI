@@ -19,7 +19,7 @@ Follow these steps to get the chatbot up and running:
     ```
 
 2. Navigate to the project directory:
-
+## THIS CODE IS ACTUALLY DEVELOPED IN GOOGLE COLAB AND IS STILL IN THE DEVELOPMENT STAGE
     ```bash
     https://github.com/Tarunraj-n/CHAT-BOT-USING-AI/blob/main/TASK_1.ipynb
     ```
